@@ -1,8 +1,8 @@
 ## Interface: 30300
 ## Title: ChatEN
-## Notes: Chat traducido: entrante al espanol, saliente al ingles. Tab alterna la traduccion saliente. /chaten on|off|log|clear|reset
-## Author: usuario
-## Version: 2.14
+## Notes: Chat traducido: entrante al espanol, saliente al ingles. /chaten on|off|log|clear|reset
+## Author: Guidopy
+## Version: 0.1.0
 ## SavedVariables: ChatEN_Log, ChatEN_MinimapAngle, ChatEN_Channels, ChatEN_ChannelNames, ChatEN_Enabled, ChatEN_ShowOriginal, ChatEN_Custom, ChatEN_OrigColor, ChatEN_TransColor, ChatEN_ColorOriginal, ChatEN_ColorTranslated
 
 Data1.lua
