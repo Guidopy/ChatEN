@@ -165,10 +165,12 @@ respectivos propietarios.
 
 ---
 
-## ☕ Donaciones
+## ☕ Donaciones — Binance
 
-¿Te sirvió el addon? Si querés invitarme algo, escaneá el QR:
+¿Te sirvió el addon? **Cualquier aporte es bien recibido.** 🙏
+
+Si querés invitarme algo, escaneá el QR de **Binance** desde tu app (Depositar → QR):
 
 ![QR de donación Binance](Assets/QR_Binance.png)
 
-¡Gracias por el apoyo! 🙏
+¡Gracias por el apoyo! Cada donación me motiva a seguir mejorando la traducción. 💙
