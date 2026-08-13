@@ -75,26 +75,35 @@ Todo corre **localmente en tu máquina**: el diccionario completo se carga al in
 
 ## Cómo descargar e instalar
 
-### Opción 1: Descargar el ZIP (recomendado)
+### Opción 1: Descargar la Release (recomendado) ⬇️
 
-1. Entrá a la pestaña **Code** de este repositorio y bajá **Download ZIP**.
-2. Extraé el ZIP. Dentro vas a ver una carpeta `ChatEN/` (o `ChatEN-main/`).
-3. Renombrá la carpeta a `ChatEN` si hace falta (sin el sufijo `-main`).
-4. Copiá la carpeta `ChatEN` completa a la carpeta de addons del juego:
+[![Descargar ChatEN v0.1.0-beta](https://img.shields.io/badge/Descargar-ChatEN%20v0.1.0--beta-green?style=for-the-badge)](https://github.com/Guidopy/ChatEN/releases/download/v0.1.0-beta/ChatEN-v0.1.0-beta.zip)
+
+1. Hacé clic en el botón (o entrá a [Releases](https://github.com/Guidopy/ChatEN/releases)).
+2. Extraé el ZIP. Dentro está la carpeta `ChatEN/`.
+3. Copiá la carpeta `ChatEN` completa a la carpeta de addons del juego:
 
    ```
    …/Ascension/Launcher/resources/ascension-live/Interface/AddOns/
    ```
 
+4. Reiniciá el juego (o usá `/reload`).
+
+### Opción 2: ZIP del código fuente
+
+1. Entrá a la pestaña **Code** de este repositorio y bajá **Download ZIP**.
+2. Extraé el ZIP. Dentro vas a ver una carpeta `ChatEN/` (o `ChatEN-main/`).
+3. Renombrá la carpeta a `ChatEN` si hace falta (sin el sufijo `-main`).
+4. Copiá la carpeta `ChatEN` completa a la carpeta de addons del juego (misma ruta de arriba).
 5. Reiniciá el juego (o usá `/reload`).
 
-### Opción 2: Clonar con git
+### Opción 3: Clonar con git
 
 ```bash
 git clone https://github.com/Guidopy/ChatEN.git
 ```
 
-Y copiá la carpeta `ChatEN` a tu carpeta de AddOns como en la opción 1.
+Y copiá la carpeta `ChatEN` a tu carpeta de AddOns como en las opciones anteriores.
 
 ---
 
